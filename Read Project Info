@@ -1,8 +1,8 @@
-This project Status : Competed.
+This project Status : Completed.
 
 This project is a live "Secret" app where you can resigter , login and create post your secrets anonymously.
 
-*Functionalities Used :
+*Tools Used :
 
 -Fronend : html, css, bootstrap
 
@@ -10,7 +10,7 @@ This project is a live "Secret" app where you can resigter , login and create po
 
 -Database: mongoDB, Monodb-Atlas (For databse server support)
 
--Security: Passport.js Authentication and Google OAuth 2.0 (Which adds a signUp and Login Feature through your google account
+-Security: Passport.js Authentication and Google OAuth 2.0 (Which adds a signUp and Login Feature through your google account)**
 
 
-Live WebApp Link : https://mighty-peak-00882.herokuapp.com/
+ Live WebApp Link : https://mighty-peak-00882.herokuapp.com/
